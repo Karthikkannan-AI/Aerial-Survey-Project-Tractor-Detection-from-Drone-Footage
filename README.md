@@ -37,10 +37,11 @@ Edge AI is a system that uses Deep Learning algorithms to process data generated
 
 ### Solution Workflow ###
 
-
+<img src="https://github.com/Karthikkannan-AI/EDGE-AI-powered-Tractor-Detection-and-Classification/blob/main/resources/Solution%20Workflow.jpg">
 
 ### Evaluation of the Proposed Solution ###
 
+<a href="https://youtu.be/sNTx0DSjUKc" target="_blank"><img src="https://github.com/Karthikkannan-AI/EDGE-AI-powered-Tractor-Detection-and-Classification/blob/main/resources/EDGE%20AI%20powered%20Tractor%20Detection.png"/></a> 
 
 - - - -
 
