@@ -1,15 +1,15 @@
 # EDGE-AI-powered-Tractor-Detection-and-Classification
 
-* [About the Project]()
-  * [AI on the Edge]()
-  * [Application Usecases]()
-* [Solution]()
-  * [Data Collection]()
-  * [Solution Workflow]()
-  * [Evaluation of the Proposed Solution]()
-* [Conclusion]()
-* [Contact Us]()
-* [Rebounding from COVID-19]()
+* [About the Project](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Tractor-Detection-and-Classification/blob/main/README.md#about-the-project)
+  * [AI on the Edge](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Tractor-Detection-and-Classification/blob/main/README.md#ai-on-the-edge)
+  * [Application Usecases](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Tractor-Detection-and-Classification/blob/main/README.md#application-usecases)
+* [Solution](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Tractor-Detection-and-Classification/blob/main/README.md#solution)
+  * [Data Collection](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Tractor-Detection-and-Classification/blob/main/README.md#data-collection)
+  * [Solution Workflow](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Tractor-Detection-and-Classification/blob/main/README.md#solution-workflow)
+  * [Evaluation of the Proposed Solution](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Tractor-Detection-and-Classification/blob/main/README.md#evaluation-of-the-proposed-solution)
+* [Conclusion](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Tractor-Detection-and-Classification/blob/main/README.md#conclusion)
+* [Contact Us](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Tractor-Detection-and-Classification/blob/main/README.md#contact-us)
+* [Rebounding from COVID-19](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Tractor-Detection-and-Classification/blob/main/README.md#rebounding-from-covid-19)
 
 - - - -
 
