@@ -15,7 +15,8 @@
 
 ## About the Project ##
 
-
+In this Project we showcase the Identification of Tractors and its connected machinery from the drone footage 
+We have trained a custom deep Learning Model to detect the tractors and its connected machinery 
 
 ### AI on the Edge ###
 
