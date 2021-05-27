@@ -1,4 +1,4 @@
-# Aerial Survey ProjectTractor Detection from Drone Footage
+# Aerial Survey Project Tractor Detection from Drone Footage
 
 * [About the Project](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Tractor-Detection-and-Classification/blob/main/README.md#about-the-project)
   * [AI on the Edge](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Tractor-Detection-and-Classification/blob/main/README.md#ai-on-the-edge)
