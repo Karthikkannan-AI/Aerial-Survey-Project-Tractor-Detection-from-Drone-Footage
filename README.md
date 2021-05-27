@@ -1,4 +1,4 @@
-# EDGE-AI-powered-Tractor-Detection-and-Classification
+# Aerial Survey ProjectTractor Detection from Drone Footage
 
 * [About the Project](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Tractor-Detection-and-Classification/blob/main/README.md#about-the-project)
   * [AI on the Edge](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Tractor-Detection-and-Classification/blob/main/README.md#ai-on-the-edge)
@@ -30,10 +30,9 @@ Edge AI is a system that uses Deep Learning algorithms to process data generated
 
 ## Solution ##
 
-<img src="https://github.com/Karthikkannan-AI/EDGE-AI-powered-Tractor-Detection-and-Classification/blob/main/resources/Tractor%20and%20components.jpg">
-
 ### Data Collection ###
 
+<img src="https://github.com/Karthikkannan-AI/EDGE-AI-powered-Tractor-Detection-and-Classification/blob/main/resources/Tractor%20and%20components.jpg">
 
 
 ### Solution Workflow ###
