@@ -49,6 +49,7 @@ Edge AI is a system that uses Deep Learning algorithms to process data generated
 
 ## Conclusion ##
 
+In this  Precision Agriculture demonstration project we showcase the power of AI in Identifying Tractors and itrs connected machinery from the drone footage
 
 
 - - - -
